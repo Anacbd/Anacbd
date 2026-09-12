@@ -24,7 +24,7 @@ I am currently studying Data Science and Artificial Intelligence and working as 
   <a href="https://discord.com/users/1348766945377259560" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="[https://open.spotify.com/user/31tc26iwmavsk23ak3grt2rqkw7e?si=623c4a680d45460c]" target="_blank">
+  <a href="https://open.spotify.com/user/31tc26iwmavsk23ak3grt2rqkw7e?si=623c4a680d45460c" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
   </a>
 </div>
